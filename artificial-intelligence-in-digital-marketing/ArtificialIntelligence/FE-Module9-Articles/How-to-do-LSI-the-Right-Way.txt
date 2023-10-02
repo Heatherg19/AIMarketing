@@ -1,0 +1,15 @@
+How to do LSI the Right Way
+
+LSI is a buzz word in SEO that a lot of people simply don’t understand. This stands for Latent Semantic Indexing, and it refers to a particular way of using keywords that in theory should be better suited to the newer, smarter, AI-driven Google.
+Google has lately made a change to a more “natural language” driven process. Rather than simply looking for search terms embedded in text (called keywords), it instead attempts to understand what the user is looking for and then look for that.
+At the same time, Google is attempting to get smarter when it comes to understanding context and synonyms. If a word has two meanings, Google hopes to be able to provide the correct search results by extrapolating context and meaning from the surrounding words in the search string. All this should in theory result in a better experience for the user and more accurate results in the SERPs (Search Engine Results Pages). All this is possible thanks to a (somewhat) new algorithm baked into Google called RankBrain.
+What this all means as well, is that marketers need to rethink how they go about trying to optimize their content for Google. In particular, they need to create content that doesn’t just use a single keyword, but that also uses related terms and phrases in order to help communicate to Google the actual meaning and topic that is being conveyed.
+And this is what we call LSI.
+How to Do LSI
+The idea behind LSI is that Google can look at not only the keyword, but the surrounding language in that article, and thereby get a much better idea of what the article is actually about. Let’s imagine for example that you’re writing about “weak bark.” Are you talking about a dog with a whimpy woof? Or are you talking about a tree that is a little worse for wares?
+Google can now look at the rest of the text in your article to try and work out which it is. And it can look for other words in the search string to better guess what the user is looking for. 
+What you need to do in this case then, is use lots of related terminology: phrases like “sap” and “leaves” will tell Google you’re talking about trees. These are words with “co-occurrence” meaning that they often occur together.
+Likewise, it can be useful to target search terms that include some context in them. “Weak bark” might be a vague term to target, but “weak tree bark” can work better.
+Really though, LSI is something that should occur naturally. Whenever you write, you should be using lots of natural language surrounding the topic. As long as you have a good vocabulary, and especially if the article is long enough, it should include lots of additional information that Google can use.
+In many ways then, the best LSI is the LSI that you don’t worry about! But with that said, it is useful to have it in the back of your mind while writing.
+

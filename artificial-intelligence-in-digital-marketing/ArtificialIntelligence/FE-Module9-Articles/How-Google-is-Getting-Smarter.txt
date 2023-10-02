@@ -1,0 +1,15 @@
+How Google is Getting Smarter and What That Means for Marketers
+
+Most of us use Google every single day, and still it finds ways to surprise us. Have you ever gone to search for something in Google, only to find that it does something almost creepily intelligent?
+For example, you might have noticed lately how Google will suggest search terms for you and often get them right. If I search “Ninja Turtles history” and then later start typing “Names of…”, there is a good chance that Google will suggest I finish that query with “…the Ninja Turtles.” Google is now smart enough to recognize that we tend to search more than once around the same topic, and it can help us to save time typing out questions as a result. At the same time, this also provides some encouragement as to what to search, thereby keeping users on Google for longer and benefiting the search giant too.
+But take a moment to reflect on just how impressive this is really. Not only has Google understood that you are likely to be looking for more things related to your first search, but it has also understood that the Ninja Turtles have names – that they are a group of fictional characters.
+How can it do this? Partly it comes down to a very powerful new feature of the algorithm called rankbrain.
+Introducing Rankbrain
+Essentially, RankBrain is an algorithm designed to better understand what people mean when they search for something. 
+Previously, Google worked by looking for exact keyword matches. If someone searched for a phrase such as “buy hats online,” then Google would look for a website that featured that exact phrase somewhere in the text. This was a simple method, but unfortunately it was also flawed. Apart from anything else, it was very easy for website owners to try and “trick” Google.
+RankBrain changes this by splitting search phrases up into “word vectors” that categorize search terms by their meaning and their context. This way, RankBrain can then attempt to understand the question and then find an actual answer online.
+This also allows Google to avoid making mistakes when looking at words with more than one meaning. For example, if you were to search for “decision trees,” then Google might once have gotten confused between the flow chart, and decisions about trees. The old Google might have brought up an article telling you how to “make decisions about trees.”
+The new Google however will look for related terms and phrases in the text, which could include such things as “flow chart” or “choices.”
+By recognizing these terms are also in the text, Google will know that the user was asking about decision trees (flow charts) and not tree decisions!
+Google is getting smarter all the time, and is becoming increasingly adept at second guessing users and knowing how to provide them with useful answers. This changes the game for internet marketers too though, who now need to think in terms of synonyms and related terms, instead of just repeating the same phrase over and over!
+A smarter Google requires smarter marketing!

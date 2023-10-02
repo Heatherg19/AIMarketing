@@ -1,0 +1,20 @@
+Article 1
+
+4 Ways to Futureproof Your Website
+
+AI-driven search and digital marketing is just around the corner. So too are newer devices, such as folding phones, and faster-than-ever connections via 5G.
+As a webmaster or internet marketer, your work is never finished when it comes to maintaining your website and ensuring it works as it should. In this post, we’ll look at four things you can do right now to futureproof your website and to protect it against future change.
+Responsive Design
+Of course, your website should already have a responsive design. But if you want to make your site as futureproof as it possibly can be, then it should be really responsive. Folding phones are just around the corner, and these will be used by countless people to view web pages. Don’t think they will catch on? No one thought big smartphones would either!
+Your website needs to not only look great on a huge range of different devices, but also to be able to change size in real time. If your theme essentially switches between two versions for large and small sites… that’s not good enough!
+Smarter Images
+Google looks at images a little right now, paying most attention to the alt-tags and the file-names. In the not-too-distant future though, it will also be able to look at the actual content of the images. This will be possible thanks to machine learning which will give us advanced computer vision.
+We can already see this in products like Google Lens, which can tell us things about objects we point our cameras at. Imagine that functionality baked into Google, and you have an even more powerful form of search!
+Wiser Wording
+Google is getting smarter and smarter all the time. Not only does that mean it’s getting better at discerning high quality and low quality content, but it also means that it’s getting better at understanding context and meaning. Google doesn’t just look for content matches any more, but actually understands what users are looking for, and can find answers within your text.
+Google wants more people to search using voice through Assistant, which means we need to write using natural language and semantic markups to help it find the important parts of our content.
+Media Rich Design
+While you might not want to make any changes like this just yet, it will make sense in the next few years to start adding richer media to websites. As more and more people start using 5G, loading times will get faster the world over. That in turn means that a video or large image will have less negative impact on page load speeds.
+There’s no requirement to add large animated backgrounds, or crisp HD images, but seeing as your competition might… it certainly can’t hurt either!
+Don’t do this yet, but have a think about how you could upgrade your site for faster connections and then you’ll be ready to embrace this new technology.
+Do all this, and your website will survive the coming years with no problem!

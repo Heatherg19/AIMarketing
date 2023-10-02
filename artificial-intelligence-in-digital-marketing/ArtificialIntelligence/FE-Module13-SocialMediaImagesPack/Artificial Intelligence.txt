@@ -1,0 +1,97 @@
+1
+-
+Computer vision describes the ability that some machines have to understand visual
+information
+.
+2
+-
+Machine learning has HUGE potential in just about every field
+.
+3
+-
+RankBrain is at least partly responsible for helping Google to cope with phrases and
+words that it hasn’t seen before
+.
+4
+-
+Google Assistant is an AI and virtual assistant that users can use to get weather
+reports, to book taxis, to play music, and much more.
+5
+-
+Search engine optimization is a big and very important part of digital marketing
+.
+6
+-
+Google doesn’t just want to pull up a list of useful search results, it wants to be able to
+answer questions
+.
+7
+-
+The reason that big data is featured in so many discussions is that it is very difficult to
+handle
+.
+8
+-
+Predictive modelling is a process t
+hat involves data mining and probability to forecast
+potential future outcomes
+.
+9
+-
+Google might opt not to recommend your webpage if it thinks the imagery on there is
+poorly chosen and out of place
+.
+10
+-
+M
+ake sure that all the imagery you are using is
+relevant and high quality!
+11
+-
+Imagine if you could show precisely right advertisements, to precisely the right
+people, at precisely the right times
+.
+12
+-
+Before choosing which publishers to work with you need to look at the audience they
+are attracting as
+well as the context
+.
+13
+-
+The key to success on the web is not just to gain traffic but also to control that traffic
+.
+14
+-
+A lead is anyone who has shown some kind of interest in buying from you
+.
+15
+-
+Chatbots are an increasingly popular tool for marketers, b
+usiness owners, and
+webmasters
+.
+16
+-
+Facebook chatbots can even be proactive by sending messages to potential
+customers
+.
+17
+-
+SQL is crucial for data science and machine learning
+.
+18
+-
+SQL allows you to do things like creating whole new tables, or inserting n
+ew rows,
+columns, or cells.
+
+
+19
+-
+The objective of all of this has been to help you better prepare for the future
+.
+20
+-
+Imagine for instance, what will happen once AI that can write high quality content
+becomes commonplace and commercially available

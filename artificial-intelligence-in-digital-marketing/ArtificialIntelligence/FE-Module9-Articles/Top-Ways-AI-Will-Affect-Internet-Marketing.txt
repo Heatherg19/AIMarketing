@@ -1,0 +1,17 @@
+Top Ways AI Will Affect Internet Marketing
+
+AI is something that we tend to associate with science fiction. In fact though, it is a big part of our reality right now and drives many of the mundane services we take for granted. That depth-effect on your camera? That’s achieved by a form of AI called machine learning!
+If you’re an internet marketer, then you should know that your specialty is not safe from the march of this new technology. AI is already affecting internet marketing in a number of powerful ways, and its effects are only likely to be felt more greatly as we move forward.
+In this post, we’ll look at some of the biggest ways AI is affecting internet marketing, and the biggest ways it will!
+Smarter Search
+Google has already adopted an AI-heavy approach to search. In fact, it has described itself lately as an “AI first company.” What this means, is that Google no longer simply tries to match keywords with text in an article, and instead aims to properly understand what the user is asking, in order to provide a more relevant answer from a piece of text.
+Google is doing this to improve Google Assistant, another piece of AI technology that it hopes more and more of us will use to get information from the web and even to make bookings!
+Marketers have had to adapt to this new algorithm called RankBrain, and that’s only likely to become a more prominent going forward.
+Oh and we can also expect computer vision to enhance Google’s ability to search through images, too.
+Chatbots
+Apparently 80% of businesses hope to have a chatbot by 2020. We can very well expect this to be something that is prominent going forward, and especially as weak AIs like these become closer to passing the Turing Test. 
+What benefit is there for marketers? A chatbot can provide instant guidance and assistance as soon as someone lands on a webpage, significantly improving conversion rates and convincing more people to buy. Some fast food stores now allow you to make orders by simply messaging their chatbots. Moreover, they can even initiate conversations with people in order to encourage them to buy!
+Big Data and Tracking
+We are tracked all the time by cookies stored on our browsers, by our user accounts, and more. This information is then used to serve us up ads that advertisers think will be relevant to us. While this is an effective strategy, it could stand to be far more effective once you start using machine learning and big data.
+In other words, as we collect more and more data about the behavior of users, smart learning algorithms can then assess that behavior and look for patterns. This will then allow them to predict items and links that the user might be interested in – even before they demonstrate an interest in it.
+In other words, you don’t show them something they’ve looked at before, but rather introduce them to entirely new products that countless other interactions suggest they might be interested in.

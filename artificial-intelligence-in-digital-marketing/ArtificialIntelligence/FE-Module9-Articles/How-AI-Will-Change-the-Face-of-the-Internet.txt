@@ -1,0 +1,18 @@
+How AI Will Change the Face of the Internet
+
+AI has the potential to change the face of the internet, and potentially to completely destroy it.
+Often, you hear leading thinkers like Elon Musk talk about the threat of AI. Stephen Hawking famously said that AI could be the worst event in civilization, and that it might spell the end of the human race!
+All this might have you picturing such things as Skynet and Hal from 2001 Space Odyssey. But that’s probably not what they’re talking about.
+Those science-fiction horrors are examples of what you would call “General AI”. That is essentially AI designed to completely replace a human, which we haven’t come all that close to creating yet. The closest thing to this is DeepMind, which still isn’t likely to pass the Turing Test.
+What these great thinkers are talking about on the other hand – most likely -  is the power of machine learning and narrow AI to completely transform the economy, the web, and what it means to be human. 
+AI Will Totally Destroy Internet Marketing
+Let’s imagine how AI might impact on internet marketing for a moment. Currently, the best way to ensure your content gets seen is to write lots of high quality articles or posts, and then to share them to a blog.
+But what if an AI could write an article better than you could? This isn’t hypothetical – it’s something that has already been achieved in several instances.
+What would take a human an hour to write would take an AI a fraction of a second. And that would mean it could flood the web with new content – doubling or tripling its size overnight.
+Now imagine that this gets into malicious hands. AI could write forum posts and create social media profiles and could lace that content with a specific message. In no time at all, it would be able to sway public opinion, or rewrite history. And human writers would be powerless to stop it!
+In the future, you may not know what is written by a human vs an AI. And you may not know what to trust.
+An early example of this that we should heed as a warning is the “deep fake.” Deep fakes are videos of celebrities that have been created via machine learning. Celebrity faces have been added to videos of other people and can thus be made to say and do anything. 
+This is only possible thanks to complex machine learning algorithms that work by analyzing countless images of faces to see how they contort and change during speech and movement.
+Imagine a world where this has become so easy to do, that you can never know if an online video is real or not.
+It might well get to the point where people are forced to stop using the internet, because there is such a huge wealth of fake information and auto-generated content. 
+Of course, that’s a long way in the future. But we should keep an eye on AI, and we shouldn’t take the web for granted!

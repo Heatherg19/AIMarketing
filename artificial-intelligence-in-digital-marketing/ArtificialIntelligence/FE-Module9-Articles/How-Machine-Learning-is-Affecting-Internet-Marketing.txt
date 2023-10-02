@@ -1,0 +1,19 @@
+How Machine Learning is Affecting Internet Marketing
+
+Machine learning is a concept that a lot of people don’t fully understand. This is not “AI” in the sense that many people think of AI, but is rather a concept in computing that is closely related to AI. 
+Machine learning describes how computers learn, which effectively means how computers identify patterns in large data sets. A computer can use machine learning to develop face detection algorithms for example, by looking at thousands of images of faces. Eventually, the system can see similarities in images of faces – they are oval in shape, they tend to have hair, they have contrast points where the eyes go etc.
+The more data you feed the system, the more accurate it becomes at detecting faces in images.
+So how does this impact on internet marketing?
+Learning From Shopping Behavior
+The answer of course, is that big data is collected by almost all websites, as a result of tracking visitors. Every time someone visits a website, Google Analytics and other tools will make a note of when they arrived, which links they followed to get there, what pages they looked at, what time they left… etc.
+All this information is often wasted. But with machine learning, it’s now possible to turn that data into something actionable.
+We see this, for example, when we look at the recommendations on Amazon. These recommendations are generated as a result of looking at patterns of behavior across millions of customers. By doing this, Amazon’s algorithms can learn which purchases tend to follow one another. 
+That in turn means that Amazon can contact you at the precise right time, with the precise right deal that you might be interested in, in order to help you make a sale!
+We also see this when we browse the rest of the web. Because cookies get stored on our computers, sites are able to share information with one another. An advert might therefore appear on an unrelated site for that same Amazon product.
+Likewise, you might be able to identify that a user that has come from website X, may be more likely to buy product Y.
+All this becomes even more powerful and effective for websites with user accounts. These are able to track the behavior of individuals over long time periods, and thereby gather far more data about their spending and their likelihood of making particular purchases.
+The Future
+Machine learning is only going to develop further from this point. Eventually, it will be able to alter the way that a website is laid out, and show ads that are statistically most likely to result in a purchase.
+In future, our browsing experience will always be tailored precisely to our specific interests and needs, based on information from countless other users. The result will be a web that is far more efficient, and of course much higher conversions and CTRs for marketers. 
+For now? Just keep collecting that data. It’s about to come in very handy indeed!
+
