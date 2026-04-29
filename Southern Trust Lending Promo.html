@@ -56,12 +56,13 @@ function Video() {
       <SceneLabels cues={CUES} />
       <TimestampLabel />
       <SeekExposer />
+      <Voiceover />
     </Stage>
   );
 }
 
 function waitForGlobals() {
-  if (window.Stage && window.Scene1 && window.Scene9) {
+  if (window.Stage && window.Scene1 && window.Scene9 && window.Voiceover) {
     ReactDOM.createRoot(document.getElementById('root')).render(<Video />);
   } else {
     setTimeout(waitForGlobals, 40);

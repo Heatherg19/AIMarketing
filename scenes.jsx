@@ -1222,8 +1222,81 @@ function TimestampLabel() {
   return null;
 }
 
+// ── Voiceover — Web Speech API TTS synced to timeline scenes ────────────────
+const VO_SCRIPT = [
+  { start: 0,  end: 4,  text: "In the south, the path to homeownership" },
+  { start: 4,  end: 8,  text: "isn't just a transaction. It's a milestone years in the making." },
+  { start: 8,  end: 13, text: "At Southern Trust Lending, we understand that." },
+  { start: 13, end: 18, text: "We walk the path with you, from first conversation to closing day and beyond." },
+  { start: 18, end: 22, text: "Rooted in Baton Rouge, licensed across the south." },
+  { start: 22, end: 26, text: "Built on relationships that outlast the loan." },
+  { start: 26, end: 30, text: "This is what lending should look like." },
+  { start: 30, end: 34, text: "Where your home journey begins." },
+];
+
+function Voiceover() {
+  const { time, playing } = useTimeline();
+  const prevSceneRef  = React.useRef(-2);
+  const prevPlayingRef = React.useRef(false);
+
+  const getVoice = React.useCallback(() => {
+    if (!window.speechSynthesis) return null;
+    const voices = window.speechSynthesis.getVoices();
+    return (
+      // Prefer warm male en-US voices — browser-dependent
+      voices.find(v => v.name === 'Google US English') ||
+      voices.find(v => /David|Tom|James|Arthur/i.test(v.name) && v.lang.startsWith('en')) ||
+      voices.find(v => v.lang === 'en-US' && !/Samantha|Victoria|Karen|Zoe|Fiona|Moira|Tessa|Veena/i.test(v.name)) ||
+      voices.find(v => v.lang.startsWith('en-US')) ||
+      null
+    );
+  }, []);
+
+  const speakLine = React.useCallback((text) => {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate   = 0.82;  // warm, unhurried southern pacing
+    u.pitch  = 0.88;  // lower pitch for male voice
+    u.volume = 1.0;
+    const voice = getVoice();
+    if (voice) u.voice = voice;
+    window.speechSynthesis.speak(u);
+  }, [getVoice]);
+
+  React.useEffect(() => {
+    if (!window.speechSynthesis) return;
+
+    const sceneIdx = VO_SCRIPT.findIndex(s => time >= s.start && time < s.end);
+    const justStarted = playing && !prevPlayingRef.current;
+    const sceneChanged = sceneIdx !== prevSceneRef.current;
+
+    if (!playing) {
+      if (prevPlayingRef.current) window.speechSynthesis.cancel();
+    } else if (justStarted || sceneChanged) {
+      if (sceneIdx >= 0) speakLine(VO_SCRIPT[sceneIdx].text);
+      else window.speechSynthesis.cancel();
+    }
+
+    prevSceneRef.current  = sceneIdx;
+    prevPlayingRef.current = playing;
+  }, [time, playing, speakLine]);
+
+  // Preload voices list (Chrome requires a dummy call first)
+  React.useEffect(() => {
+    if (window.speechSynthesis) {
+      window.speechSynthesis.getVoices();
+      window.speechSynthesis.addEventListener('voiceschanged', () => {
+        window.speechSynthesis.getVoices();
+      });
+    }
+  }, []);
+
+  return null;
+}
+
 Object.assign(window, {
   Scene1, Scene2, Scene3, Scene4, Scene5, Scene6, Scene7, Scene8, Scene9,
-  SceneLabels, TimestampLabel, MusicBed,
+  SceneLabels, TimestampLabel, MusicBed, Voiceover,
   GREEN, CREAM, GOLD, SAGE, SERIF, SANS, MONO,
 });
